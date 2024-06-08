@@ -15,5 +15,7 @@ public class Tarea01Aspectos {
         
         President p1 = new President("Macron", 40, "France", 2024, 2028);
         System.out.println(p1);
+        President p2 = new President("Julia", 40, "Mexico", 2021, 2030);
+        System.out.println(p2);
     }
 }
